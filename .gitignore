@@ -4,7 +4,6 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .ipynb_checkpoints/
-artifacts/
+artifacts/*.csv
 data/*.csv
 !data/README.md
-
